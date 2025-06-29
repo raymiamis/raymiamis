@@ -1,4 +1,4 @@
-***- 🌅 My Operating Systems -***
+***- 🌅 _My__Operating__Systems_ -***
 
   **Arch** / **EndeavourOS**
   
@@ -8,7 +8,7 @@
 
   
   
-***- 🖥️ My Programming Languages -***
+***- 🖥️ _My__Programming__Languages_ -***
 
   **Java** - *advanced*
   
@@ -22,6 +22,6 @@
  
 - 🌱 I’m currently learning: C, Rust, MySQL, Nginx
   
-- 💬 Ask me about: pwnagotchi
+- 💬 Ask me about: *pwnagotchi*
   
-- 📫 How to reach me: Discord: raymiamis
+- 📫 Discord: *raymiamis*
