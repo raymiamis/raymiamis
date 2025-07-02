@@ -18,7 +18,7 @@
 
   
 
-- 🔭 I’m currently working on: some cyber security projects
+- 🔭 I’m currently working on: some cyber security projects & uni
  
 - 🌱 I’m currently learning: C, Rust, MySQL, Nginx
   
