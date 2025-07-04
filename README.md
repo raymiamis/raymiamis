@@ -11,6 +11,8 @@
 ***- 🖥️ _My__Programming__Languages_ -***
 
   **Java** - *advanced*
+
+  **Go** - *basic*
   
   **Python** - *basic*
   
@@ -20,7 +22,7 @@
 
 - 🔭 I’m currently working on: some cyber security & university projects (rn dsa)
  
-- 🌱 I’m currently learning: C, Rust, MySQL, Nginx
+- 🌱 I’m currently learning: Go, C, Rust, MySQL, Nginx
   
 - 💬 Ask me about: *pwnagotchi*
   
