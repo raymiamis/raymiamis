@@ -20,7 +20,7 @@
 
   
 
-- 🔭 I’m currently working on: some cyber security & university projects (rn dsa)
+- 🔭 I’m currently working on: some cyber security & university projects
  
 - 🌱 I’m currently learning: Go, C, Rust, MySQL, Nginx
   
