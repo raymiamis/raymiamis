@@ -1,6 +1,6 @@
 ***- 🌅 _My__Operating__Systems_ -***
 
-  **Arch** / **EndeavourOS**
+  **Arch** 🫠 / **EndeavourOS**
   
   Debian / Kali / Tails
   
