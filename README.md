@@ -1,3 +1,5 @@
+![banner](https://github.com/raymiamis/raymiamis/blob/main/raymiamis_banner.png)
+
 ***- 🌅 _My__Operating__Systems_ -***
 
   **Arch** 🫠 / **EndeavourOS** 💪
