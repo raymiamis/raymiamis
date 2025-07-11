@@ -2,15 +2,16 @@
 
 ***- _My__Operating__Systems_ -***
 
-**Arch** // **Debian** // **Windows 11**
+> **Arch** // **Debian** // **Windows 11**
 
   
 ***- _My__Programming__Languages_ -***
 
-  **Java** - *advanced* // **Go** - *basic* // **Python** - *basic* //  **JavaScript** - *basic*
+> **Java** - *advanced* // **Go** - *basic* // **Python** - *basic* //  **JavaScript** - *basic*
 
   
-- 🔭 I’m currently working on: some cyber security & university projects
-- 🌱 I’m currently learning: Go, C, Rust, MySQL, Nginx
-- 💬 Ask me about: *pwnagotchi*
-- 📫 Discord: *raymiamis*
+- I’m currently working on: some cyber security & university projects
+- I’m currently learning: Go, C, Rust, MySQL, Nginx
+- coming soon: *dotfiles*
+- Ask me about: *pwnagotchi*
+- Discord: *raymiamis*
