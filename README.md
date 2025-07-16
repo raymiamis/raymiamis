@@ -5,13 +5,6 @@
 > **Arch** // **Debian** // **Windows 11**
 
   
-***- _My__Programming__Languages_ -***
-
-> **Java** - *advanced* // **Go** - *basic* // **Python** - *basic* //  **JavaScript** - *basic*
-
-  
 - I’m currently working on: some cyber security & university projects
-- I’m currently learning: Go, C, Rust, MySQL, Nginx
+- I’m currently learning: C, NixOS, Go, Rust
 - coming soon: *dotfiles*
-- Ask me about: *pwnagotchi*
-- Discord: *raymiamis*
