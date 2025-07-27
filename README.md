@@ -3,6 +3,7 @@
 ***- _My__Operating__Systems_ -***
 
 > **Arch** // **Debian** // **Windows 11**
+> switching to NixOS rn
 
   
 - I’m currently working on: some cyber security & university projects
