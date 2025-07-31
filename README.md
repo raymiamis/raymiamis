@@ -8,5 +8,5 @@
 
   
 - I’m currently working on: some cyber security & university projects
-- I’m currently learning: C, NixOS, Vim
+- I’m currently learning: C, NixOS, Vim, Gentoo
 - coming soon: *dotfiles*
