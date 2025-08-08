@@ -2,9 +2,7 @@
 
 ***- _My__Operating__Systems_ -***
 
-> **Arch** // **Debian** // **Windows 11**
->
-> switching to **NixOS** rn
+> **NixOS** // **Arch** // **Debian** // **Windows 11**
 
   
 - I’m currently working on: some cyber security & university projects
