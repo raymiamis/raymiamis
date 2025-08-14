@@ -5,6 +5,6 @@
 > **NixOS** // **Arch** // **Debian** // **Windows 11**
 
   
-- I’m currently working on: some cyber security & university projects
+- I’m currently working on: some cyber security & university projects & a web project
 - I’m currently learning: C, NixOS, Vim, Gentoo
 - coming soon: *dotfiles*
