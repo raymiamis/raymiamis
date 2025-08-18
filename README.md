@@ -2,7 +2,7 @@
 
 ***- _My__Operating__Systems_ -***
 
-> **NixOS** // **Arch** // **Debian** // **Windows 11**
+> **NixOS** 🩵 // **Arch** // **Debian** // **Windows 11**
 
   
 - I’m currently working on: some cyber security & university projects
