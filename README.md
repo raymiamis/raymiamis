@@ -5,6 +5,6 @@
 > **NixOS** 🩵 // **Arch** // **Debian** // **Windows 11**
 
   
-- I’m currently working on: some cyber security & university projects
+- I’m currently working on: some cyber security projects
 - I’m currently learning: C, NixOS, FreeBSD, RISC-V & -Assembly
 - coming soon: *dotfiles*
