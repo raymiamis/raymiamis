@@ -6,5 +6,5 @@
 
   
 - I’m currently working on: some cyber security projects
-- I’m currently learning: FreeBSD, RISC-V & -Assembly
+- I’m currently learning: RISC-V Architecture & -Assembly
 - coming soon: *dotfiles*
